@@ -1,2 +1,6 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/5/folders/1CeNVQG6V0Nlp5hYV3tw70oTgTu-Mi0IB
+  /:
+    url: "https://author-p185462-e1946075.adobeaemcloud.com/bin/franklin.delivery/tpsaravanan/edge/main"
+    type: "markup"
+    suffix: ".html"
+    
